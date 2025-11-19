@@ -1,0 +1,5 @@
+{
+  "name": "Voxel Desert & Donuts",
+  "description": "A procedurally generated infinite voxel desert walk with falling donuts.",
+  "requestFramePermissions": []
+}
